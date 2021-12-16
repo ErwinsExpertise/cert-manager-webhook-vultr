@@ -22,7 +22,6 @@ jobs:
           kind: Secret
           metadata:
             name: vultr-credentials
-            namespace: cert-manager
           type: Opaque
           data:
             apiKey: "${KEY}"
