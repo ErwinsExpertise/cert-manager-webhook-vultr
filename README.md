@@ -111,7 +111,7 @@ spec:
   secretName: example-com-tls
 ```
 
-To check on the certificate run the following:
+To check on the certificate run the following command:
 
 ```shell
 kubectl describe certificate staging-cert-example-com
