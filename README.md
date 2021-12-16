@@ -6,7 +6,7 @@ This is a webhook solver for [Vultr](https://www.vultr.com) to be used with [Cer
 
 There are a few things required before you can start using `cert-manager-webhook-vultr`.
 
-- Helm v3+ is required to install the `cert-manager-webhook-vultr` charts
+- Helm v3+ is required to install the `cert-manager-webhook-vultr` charts.
 - [Cert-Manager](https://cert-manager.io/docs/) needs to be running on your cluster prior.
 
 ## Installation
